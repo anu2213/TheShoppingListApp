@@ -9,7 +9,7 @@ A simple Android app that allows users to add, view, and manage their shopping l
 - Clean and minimal user interface
 - Built using modern Android development tools and libraries
 
-#Built With
+# Built with
 
 - Kotlin
 - Jetpack Compose
