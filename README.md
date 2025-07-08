@@ -18,7 +18,7 @@ A simple Android app that allows users to add, view, and manage their shopping l
 
 # Acknowledgements
 
-I have developed this project  as part of a learning exercise from the course[The Complete Android 14 & Kotlin Development Masterclass](https://www.udemy.com/) by **Denis Panjuta**.*
+I have developed this project  as part of a learning exercise from the course[The Complete Android 14 & Kotlin Development Masterclass](https://www.udemy.com/) by **Denis Panjuta**.
 
 
 
